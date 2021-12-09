@@ -1,0 +1,19 @@
+.daybg{
+    background-color: lightskyblue;
+    border-bottom: green 3px solid;
+}
+.nigthbg{
+    background-color: #15171c;
+    border-bottom: lawngreen 3px solid;
+}
+
+.TituloIl{
+    top: 30%;
+}
+
+.dayborder{
+    border: green 5px outset;
+}
+.nigthborder{
+    border: lawngreen 5px outset;
+}
